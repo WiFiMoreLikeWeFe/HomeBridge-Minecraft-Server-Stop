@@ -1,16 +1,16 @@
 {
   "private": true,
   "displayName": "Plugin Name",
-  "name": "homebridge-plugin-name",
+  "name": "Minecraft-server-mcrcon-command",
   "version": "1.0.0",
-  "description": "A short description about what your plugin does.",
+  "description": "lets you send command to your minecraft server",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME.git"
+    "url": "https://github.com/WiFiMoreLikeWeFe/HomeBridge-Minecraft-Server-Stop.git"
   },
   "bugs": {
-    "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME/issues"
+    "url": "https://github.com/WiFiMoreLikeWeFe/HomeBridge-Minecraft-Server-Stop/issues"
   },
   "engines": {
     "node": ">=14.18.1",
